@@ -1,0 +1,11 @@
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/bin/Debug/netcoreapp2.0/Exercise1-0610.deps.json
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/bin/Debug/netcoreapp2.0/Exercise1-0610.runtimeconfig.json
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/bin/Debug/netcoreapp2.0/Exercise1-0610.runtimeconfig.dev.json
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/bin/Debug/netcoreapp2.0/Exercise1-0610.dll
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/bin/Debug/netcoreapp2.0/Exercise1-0610.pdb
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.csprojResolveAssemblyReference.cache
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.csproj.CoreCompileInputs.cache
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.AssemblyInfoInputs.cache
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.AssemblyInfo.cs
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.dll
+/Users/joeyking/Projects/Exercise1-0610/Exercise1-0610/obj/Debug/netcoreapp2.0/Exercise1-0610.pdb
